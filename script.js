@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', init);
 function init() {
     const bgm = document.getElementById('bgm');
     const bgmIcon = document.getElementById('bgm-icon');
-    let nihahahaSoundSrc = './sounds/nihahaha.ogx';
-    let uwahSoundSrc = './sounds/uwah.ogx';
+    let nihahahaSoundSrc = './sounds/momoiNaega.mp3';
+    let uwahSoundSrc = './sounds/momoiFrustation.ogg';
     let isBgmOn = false;
     bgm.volume = 0.8;
 
